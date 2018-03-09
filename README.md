@@ -1,4 +1,4 @@
-# Turbofan-Cycle-optimization-
+# Turbofan_Cycle_optimization
 A simple package to calculate and optimize the Specific Thrust of unMixed flow dual spool Turbofan Engines based on the method described in:
 "Mattingly, J. D., Boyer, K. M., & von Ohain, H. (2006). Elements of propulsion: gas turbines and rockets"
 
